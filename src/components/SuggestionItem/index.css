@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px;
+  margin: 0px;
+}
+.suggestion {
+  font-size: 18px;
+  color: #475569;
+  align-self: center;
+}
+.arrow-img {
+  width: 30px;
+  height: 30px;
+  align-self: center;
+}
+.button {
+  border-style: none;
+  background-color: transparent;
+}
